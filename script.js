@@ -51,12 +51,15 @@ function reset(){
 
 function renderSquare(){
     for(let i in square){
-        console.log(i)
+        // Aqui estou colocando o item do array da div selecionada com a condição.
+        let item = document.querySelector(`div[data-item = ${i}]`);
+        item.innerHTML = square[i];
     }
 }
 
 
 
 function renderInfo(){
-
+    document.querySelector('.vez').innerHTML = player;
+    document.querySelector('.resultado').innerHTML = warning;
 }
