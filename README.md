@@ -1,5 +1,6 @@
 # Projeto_Jogo_da_Velha <br/><br/>
 
+![jogo_velha](https://user-images.githubusercontent.com/66651121/134397818-cb0f18b2-eeaf-442b-90c0-dd95a27c46bd.png) <br/><br/>
 
 
 Página elaborada com ajuda do curso do Professor Bonieky  , se trata de uma de um Jogo da Velha interativo , 
